@@ -1,0 +1,18 @@
+{
+  "versionLabel": "1.0.0",
+  "agentInfo": {
+    "languageCode": "en-US",
+    "projectId": "perfumeselector-159706",
+    "voiceName": "female_2"
+  },
+  "actions": [
+    {
+      "initialTrigger": {
+        "intent": "assistant.intent.action.MAIN"
+      },
+      "httpExecution": {
+        "url": "YOUR_ENDPOINT_URL"
+      }
+    }
+  ]
+}
