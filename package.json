@@ -15,11 +15,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/heroku/node-js-getting-started"
+    "url": "https://github.com/leenabharambe/perfume-selector"
   },
   "keywords": [
     "node",
-    "heroku",
+    "leenabharambe",
     "express"
   ],
   "license": "MIT"
